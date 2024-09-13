@@ -10,11 +10,21 @@ public class Persona {
     String nombre;
     int edad;
     double altura;
+    
     String consulta_Nombre(){
         return nombre;
     }
+    
     void cambia_Nombre(String nom){
         nombre=nom;
+    }
+    
+    // Constructor predeterminado
+    
+    public Persona() {
+        this.nombre = "Sonia Salazar";
+        this.edad = 27;
+        this.altura = 1.72;
     }
     
     //Constructor
@@ -55,5 +65,19 @@ public class Persona {
         }  
         return false;
         
+    }
+    
+    public static void main(String[] args) {
+        Persona nueva_persona = new Persona();
+        System.out.println("Nombre: " + nueva_persona.nombre);
+        System.out.println("Edad: " + nueva_persona.edad);
+        System.out.println("Altura: " + nueva_persona.altura);
+        
+        System.out.println("-------------------------");
+        
+        Persona nueva_persona2 = new Persona("Pepe", 22, 1.80);
+        System.out.println("Nombre: " + nueva_persona2.nombre);
+        System.out.println("Edad: " + nueva_persona2.edad);
+        System.out.println("Altura: " + nueva_persona2.altura);
     }
 }
