@@ -1,3 +1,4 @@
+package archivostxt;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -7,7 +8,7 @@ public class EjemploDirectorio {
     
     public static void main(String[] args) {
         // Especifica la ruta del directorio a crear
-        String rutaDirectorio = ".";
+        String rutaDirectorio = "hola";
         
         // Crea un objeto Path a partir de la ruta especificada
         Path directorio = Paths.get(rutaDirectorio);
