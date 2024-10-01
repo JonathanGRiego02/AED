@@ -1,4 +1,4 @@
-package archivostxt;
+package archivostxt.AccesoSecuencia;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
