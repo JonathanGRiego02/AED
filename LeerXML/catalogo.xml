@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogo>
+    <libro>
+        <anioPublicacion>2024</anioPublicacion>
+        <autor>Nombre del Autor</autor>
+        <genero>Ficción</genero>
+        <titulo>Ejemplo de Título</titulo>
+    </libro>
+    <libro>
+        <anioPublicacion>2024</anioPublicacion>
+        <autor>yo</autor>
+        <genero>femenino</genero>
+        <titulo>pepe</titulo>
+    </libro>
+</catalogo>
