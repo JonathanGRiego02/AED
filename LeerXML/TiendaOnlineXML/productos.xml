@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productos>
+    <producto>
+        <categoria>Comida</categoria>
+        <nombre>Arroz</nombre>
+        <precio>2.5</precio>
+    </producto>
+    <producto>
+        <categoria>Limpiza</categoria>
+        <nombre>Detergente</nombre>
+        <precio>12.5</precio>
+    </producto>
+</productos>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+    <cliente>
+        <apellido>Pérez</apellido>
+        <direccion>Calle Falsa 123</direccion>
+        <nombre>Juan</nombre>
+    </cliente>
+    <cliente>
+        <apellido>García</apellido>
+        <direccion>Avenida Siempreviva 742</direccion>
+        <nombre>Ana</nombre>
+    </cliente>
+    <cliente>
+        <apellido>Martínez</apellido>
+        <direccion>Calle Sol 9</direccion>
+        <nombre>Luis</nombre>
+    </cliente>
+</clientes>

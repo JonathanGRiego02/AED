@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pedidos>
+    <pedido>
+        <fechaPedido>21-12-2024</fechaPedido>
+        <productos>
+            <producto>
+                <categoria>Comida</categoria>
+                <nombre>Arroz</nombre>
+                <precio>2.5</precio>
+            </producto>
+            <producto>
+                <categoria>Limpiza</categoria>
+                <nombre>Detergente</nombre>
+                <precio>12.5</precio>
+            </producto>
+        </productos>
+    </pedido>
+    <pedido>
+        <fechaPedido>21-12-2024</fechaPedido>
+        <productos>
+            <producto>
+                <categoria>Fruta</categoria>
+                <nombre>Pera</nombre>
+                <precio>1.0</precio>
+            </producto>
+        </productos>
+    </pedido>
+</pedidos>

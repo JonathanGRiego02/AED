@@ -1,4 +1,4 @@
-package aed;
+package aed.libros;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

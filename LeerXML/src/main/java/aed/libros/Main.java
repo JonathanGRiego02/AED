@@ -1,4 +1,4 @@
-package aed;
+package aed.libros;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
